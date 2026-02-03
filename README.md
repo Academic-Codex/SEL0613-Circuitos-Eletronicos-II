@@ -3,8 +3,8 @@
 </p> -->
 
 <p align="center">
-  <a href="https://Academic-Codex.github.io/SEL0615-Circuitos-Eletronicos-II">
-    <img src=".github/readme/hero.svg?v=2026-01-08T01:40:38.948132Z" width="100%" alt="Access the course website" />
+  <a href="https://academic-codex.github.io/SEL0613-Circuitos-Eletronicos-II?utm_source=SEL0613-Circuitos-Eletronicos-II&utm_medium=readme">
+    <img src=".github/readme/hero.svg?v=2026-02-03T01:40:49.981220Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
